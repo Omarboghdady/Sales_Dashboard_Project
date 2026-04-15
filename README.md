@@ -93,4 +93,4 @@ Investigate Footwear quality — high returns and negative reviews suggest a pro
 Analyze Cairo's return reasons — understand why Cairo behaves differently from other branches
 Improve product descriptions for Footwear — customer expectations may not match the actual product
 🎬 Project Walkthrough Video
-Watch the full project walkthrough on LinkedIn
+https://www.linkedin.com/posts/omar-kamal-boghdady-37a456287_dataanalysis-powerbi-excel-ugcPost-7449823077145718785-PP-K?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEWn344B8MSjZGWOjOMnVqciXcNeUEfzDRw&utm_campaign=copy_link
